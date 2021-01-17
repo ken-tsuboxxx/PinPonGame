@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+canvas {
+  background-color: black;
+  display: block;
+  margin: 0 auto;
+}
